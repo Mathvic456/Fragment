@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fragment.com	TRUE	/	FALSE	1999999999	stel_ssid	8b96bf744beab0658c_4463642947870365784
+fragment.com	TRUE	/	FALSE	1999999999	samesite	None
+

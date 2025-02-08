@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Sat, 08 Feb 2025 13:49:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+pragma: no-cache
+Cache-Control: no-store
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=315
